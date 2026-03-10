@@ -1,4 +1,14 @@
 # SDLC-Lab01
+
+- Requisitos de entrega y aprobacion:
+  - Respetar el formato Markdown.
+  - Solo se aceptan los trabajos por GitHub Classroom
+  - Todas las respuestas deben realizarse en el archivo **README.md** del repositorio asignado..
+  - El Trabajo en individual. Si bien se puede realizar de forma grupal, la entrega es siempre ***individual***
+  - Respetar las fechas de entraga. No se aceptan las actividades fuera de termino.
+
+> Si surge algún cambio o aclaración adicional, se comunicará durante la clase.
+
 ### Actividad 1
 Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 
