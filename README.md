@@ -62,6 +62,46 @@ R:
   * ¿Por qué este modelo puede ser problemático cuando los requerimientos cambian?
 
     R:
-  
+### Actividad 4
+Complete la siguiente tabla.
+| Modelo      | Característica principal | Cuándo conviene usarlo |
+| ----------- | ------------------------ | ---------------------- |
+| Cascada     |                          |                        |
+| Incremental |                          |                        |
+| Prototipos  |                          |                        |
+| Espiral     |                          |                        |
+| RAD         |                          |                        |
 
+- Responder:
+  - ¿Qué modelo es más adecuado cuando existen muchos riesgos en el proyecto?
+  - ¿Qué modelo ayuda a comprender mejor los requerimientos del usuario?
+    
+### Actividad 5 – Caso práctico
+Una empresa quiere desarrollar un sistema de ventas para un pequeño comercio.
 
+**Características del proyecto:**
+- Sistema relativamente pequeño
+- Pocos usuarios
+- Requerimientos claros
+- Tiempo limitado
+
+**Preguntas**
+
+- ¿Qué modelo de desarrollo recomendaría? 
+
+  R: 
+- Justifique su respuesta.
+
+  R:
+- ¿Qué etapas principales tendría el desarrollo?
+
+  R:
+
+### Actividad 7 – Verdadero o Falso
+Indique si las siguientes afirmaciones son Verdaderas (V) o Falsas (F). ***marcar con x la verdaderas, dejar en blanco las falsas***
+
+1. [ ] El modelo en cascada permite cambios constantes en los requerimientos.
+2. [ ] El modelo incremental entrega el sistema en varias versiones.
+3. [ ] Un prototipo se utiliza para comprender mejor los requerimientos.
+4. [ ] El modelo RAD busca reducir los tiempos de desarrollo.
+5. [ ] El modelo en espiral incorpora el análisis de riesgos.
